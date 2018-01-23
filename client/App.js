@@ -7,7 +7,7 @@ class Card extends Component {
     return (
       <div className="container" style={{marginTop: '1rem'}}>
         <div className="alert alert-primary">
-          This is a primary alert—check it <span className={styles.test}>out</span>!
+          This is a primary alert—check it <span className={styles.test}>Hello!</span>
         </div>
         <ul className="list-group">
           <li className="list-group-item active">Cras justo odio</li>
